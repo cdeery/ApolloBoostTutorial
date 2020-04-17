@@ -12,7 +12,7 @@ export default function App() {
   return (
     <ApolloProvider client={client}>
       <div className="App">
-        <h1>Hello CodeSandbox</h1>
+        <h1>Apollo Client Tutorial</h1>
         <h2>
           <ExchangeRates />
         </h2>
